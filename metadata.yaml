@@ -1,0 +1,31 @@
+_repo: Sylvia-Arden-Decides_48385
+contributor:
+  illustrator:
+    agent_name: Coffin, Haskell
+    aliases:
+    - Coffin, W. Haskell (William Haskell)
+    - Coffin, William Haskell
+    birthdate: 1878
+    deathdate: 1941
+    gutenberg_agent_id: '37093'
+    url: http://www.gutenberg.org/2009/agents/37093
+creator:
+  author:
+    agent_name: Chalmers, Margaret Piper
+    aliases:
+    - Chalmers, Margaret Rebecca Piper
+    - Piper, Margaret Rebecca
+    birthdate: 1880
+    gutenberg_agent_id: '3871'
+    url: http://www.gutenberg.org/2009/agents/3871
+description: ''
+gutenberg_issued: '2015-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Sylvia Arden Decides
+url: http://www.gutenberg.org/ebooks/48385
